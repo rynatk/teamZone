@@ -1,6 +1,9 @@
 {
   "name": "teamZone",
   "private": true,
+  "scripts": {
+    "start:mobile": "yarn workspace mobile start"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
