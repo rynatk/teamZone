@@ -1,0 +1,4 @@
+#Thu Mar 14 00:11:02 EDT 2019
+base.0=/Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/react-native-0.59.0.aar/d914b2522f24fe1b98ed95d8968d5a4f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d78ccdd74c6d52651ed937aa0e216e0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d74be4e10a4765570d7ed72363e42a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31376347e248e9a31201bea27fbd1bf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cba8900e00a5e48f050a9fac8e1be750/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/57dbfc7d5aa1b653363d01598895238b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ebf5ee2663abed9bb14cb56d063ddd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cca327ae843e0c00732054b1cc607af4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2048e856c66a7099d5e2d89131e656dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e492212c2edc2ed445cde55b8df77baf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9c616a8560daf267a191b12febbf94ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6b9f34f04ce2515b83792c33ffd3125e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2df3dd539356e33c179aad65348ae1b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f0340fc7eb67f1ef83b69cb2f906ffb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bc35239cb130c214ef1678a9d2444d8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/520835148ce693d5a047206f24fe5e6d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/afafbf3d528c548a7f963252375b08f7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3d9fb8aa74ca57340b4b46780faabe75/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/037a5565c92cdbd1abc4299d1048d76d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1f7eed2cccf9ff8587d60585589373d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c42544d22805ffb090f50c7316971575/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/62992d996f85ccaba1b13c5662dae493/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8c46bb4550c84dc9529ef76484de66c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/41c87d9907dc0c5a6a93423963bc3d43/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ed24bb9037794d566c661e88983b6ef1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8789ca74b3408189a549b74eeafcfb11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/25d5aa319bd3911b4c8c708cec4c900a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/acead7cb0fe60ed65a286586a2aff97d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0432d25eac32a13d2ae8bc4e14f0a3ad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/31bd114b3300391b1136e47c243dfa23/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e4c4474901cf53169204d7c40a593cf8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/03d65f7ad8bb046765e983d27a11ec42/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9b0abcb6d1e7a8f955c23e17c53e83fc/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/bf8b03d7bd2cd482d671bb6f2d4b37b3/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/react-native-0.59.0.aar/d914b2522f24fe1b98ed95d8968d5a4f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/react-native-0.59.0.aar/d914b2522f24fe1b98ed95d8968d5a4f/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/520835148ce693d5a047206f24fe5e6d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/520835148ce693d5a047206f24fe5e6d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/afafbf3d528c548a7f963252375b08f7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/afafbf3d528c548a7f963252375b08f7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9b0abcb6d1e7a8f955c23e17c53e83fc/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9b0abcb6d1e7a8f955c23e17c53e83fc/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/520835148ce693d5a047206f24fe5e6d/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:7:39-78
+	android:roundIcon
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:7:18-38
+	android:icon
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:networkSecurityConfig
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:7:79-135
+	android:theme
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.teamzone.MainActivity
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/react-native-0.59.0.aar/d914b2522f24fe1b98ed95d8968d5a4f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/react-native-0.59.0.aar/d914b2522f24fe1b98ed95d8968d5a4f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d78ccdd74c6d52651ed937aa0e216e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d78ccdd74c6d52651ed937aa0e216e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d74be4e10a4765570d7ed72363e42a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d74be4e10a4765570d7ed72363e42a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31376347e248e9a31201bea27fbd1bf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31376347e248e9a31201bea27fbd1bf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cba8900e00a5e48f050a9fac8e1be750/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cba8900e00a5e48f050a9fac8e1be750/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/57dbfc7d5aa1b653363d01598895238b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/57dbfc7d5aa1b653363d01598895238b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ebf5ee2663abed9bb14cb56d063ddd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ebf5ee2663abed9bb14cb56d063ddd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cca327ae843e0c00732054b1cc607af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cca327ae843e0c00732054b1cc607af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2048e856c66a7099d5e2d89131e656dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2048e856c66a7099d5e2d89131e656dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e492212c2edc2ed445cde55b8df77baf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e492212c2edc2ed445cde55b8df77baf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9c616a8560daf267a191b12febbf94ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9c616a8560daf267a191b12febbf94ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6b9f34f04ce2515b83792c33ffd3125e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6b9f34f04ce2515b83792c33ffd3125e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2df3dd539356e33c179aad65348ae1b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2df3dd539356e33c179aad65348ae1b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f0340fc7eb67f1ef83b69cb2f906ffb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f0340fc7eb67f1ef83b69cb2f906ffb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bc35239cb130c214ef1678a9d2444d8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bc35239cb130c214ef1678a9d2444d8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/520835148ce693d5a047206f24fe5e6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/520835148ce693d5a047206f24fe5e6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/afafbf3d528c548a7f963252375b08f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/afafbf3d528c548a7f963252375b08f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3d9fb8aa74ca57340b4b46780faabe75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3d9fb8aa74ca57340b4b46780faabe75/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/037a5565c92cdbd1abc4299d1048d76d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/037a5565c92cdbd1abc4299d1048d76d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1f7eed2cccf9ff8587d60585589373d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1f7eed2cccf9ff8587d60585589373d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c42544d22805ffb090f50c7316971575/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c42544d22805ffb090f50c7316971575/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/62992d996f85ccaba1b13c5662dae493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/62992d996f85ccaba1b13c5662dae493/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8c46bb4550c84dc9529ef76484de66c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8c46bb4550c84dc9529ef76484de66c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/41c87d9907dc0c5a6a93423963bc3d43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/41c87d9907dc0c5a6a93423963bc3d43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ed24bb9037794d566c661e88983b6ef1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ed24bb9037794d566c661e88983b6ef1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8789ca74b3408189a549b74eeafcfb11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8789ca74b3408189a549b74eeafcfb11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/25d5aa319bd3911b4c8c708cec4c900a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/25d5aa319bd3911b4c8c708cec4c900a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/acead7cb0fe60ed65a286586a2aff97d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/acead7cb0fe60ed65a286586a2aff97d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0432d25eac32a13d2ae8bc4e14f0a3ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0432d25eac32a13d2ae8bc4e14f0a3ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/31bd114b3300391b1136e47c243dfa23/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/31bd114b3300391b1136e47c243dfa23/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e4c4474901cf53169204d7c40a593cf8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e4c4474901cf53169204d7c40a593cf8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/03d65f7ad8bb046765e983d27a11ec42/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/03d65f7ad8bb046765e983d27a11ec42/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9b0abcb6d1e7a8f955c23e17c53e83fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9b0abcb6d1e7a8f955c23e17c53e83fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/bf8b03d7bd2cd482d671bb6f2d4b37b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ratkinson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/bf8b03d7bd2cd482d671bb6f2d4b37b3/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/ratkinson/Projects/personal/teamZone/packages/mobile/android/app/src/debug/AndroidManifest.xml:5:22-75
