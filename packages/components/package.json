@@ -2,5 +2,10 @@
   "name": "components",
   "version": "0.0.1",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "gravatar": "^1.8.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.23",
+    "prop-types": "^15.7.2"
+  }
 }

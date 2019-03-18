@@ -1,5 +1,5 @@
 import { AppRegistry } from 'react-native'; // auto-aliased to react-native-web
-import App from 'components/src/App';
+import App from './App';
 
 AppRegistry.registerComponent('teamZone', () => App);
 AppRegistry.runApplication('teamZone', {
