@@ -1,6 +1,5 @@
 import React from 'react';
 import { Image, StyleSheet } from 'react-native';
-// import PropTypes from 'prop-types';
 import gravatar from 'gravatar';
 
 export const SIZES = {
@@ -9,7 +8,6 @@ export const SIZES = {
   large: 'large'
 };
 
-// ex. https://api.adorable.io/avatars/115/abott@adorable
 const PIXEL_SIZE = 100;
 const ADORABLE_URL = `https://api.adorable.io/avatars/${PIXEL_SIZE}/`;
 

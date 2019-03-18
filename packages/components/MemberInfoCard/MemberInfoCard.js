@@ -18,11 +18,10 @@ const MemberInfoCard = ({ member }) => {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: colors.light,
-    borderRadius: 20,
     flex: 1,
     flexDirection: 'row',
     justifyContent: 'space-around',
-    margin: 20,
+    margin: 10,
   },
   name: {
   },

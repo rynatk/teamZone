@@ -2,6 +2,7 @@
   "name": "teamZone",
   "private": true,
   "scripts": {
+    "start:desktop": "yarn workspace desktop start",
     "start:mobile": "yarn workspace mobile start",
     "start:web": "yarn workspace web start"
   },
