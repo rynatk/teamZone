@@ -5,10 +5,10 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.59.0.aar/d914b2522f24fe1b98ed95d8968d5a4f/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../node_modules/react-native/android/com/facebook/react/react-native/0.59.0/react-native-0.59.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.59.0/react-native-0.59.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../node_modules/react-native/android/com/facebook/react/react-native/0.59.0/react-native-0.59.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.59.0/react-native-0.59.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -2,22 +2,22 @@
   {
     "name": "Jeff Zhen",
     "email": "jeff@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Robert Beene",
     "email": "robert@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Ryan Atkinson",
     "email": "ryan@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Michael Yared",
     "email": "michael@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Florence Lafite",
@@ -27,61 +27,61 @@
   {
     "name": "JJ Ashcraft",
     "email": "jj@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Elrick Ryan",
     "email": "elrick@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Matt Thmopson",
     "email": "matt@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Isaiah Grey",
     "email": "isaiah@echobind.com",
-    "timezone": null
+    "timezone": "CST"
   },
   {
     "name": "Lora Byrnside",
     "email": "lora@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Sarah Nicolls",
     "email": "sarah@echobind.com",
-    "timezone": null
+    "timezone": "PST"
   },
   {
     "name": "Gabriel Martin",
     "email": "gabriel@echobind.com",
-    "timezone": null
+    "timezone": "PST"
   },
   {
     "name": "Alvin Crespo",
     "email": "alvin@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Chris Ball",
     "email": "chris@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Darleen Denno",
     "email": "darleen@echobind.com",
-    "timezone": null
+    "timezone": "CST"
   },
   {
     "name": "Ashley Nelms",
     "email": "ashley@echobind.com",
-    "timezone": null
+    "timezone": "EST"
   },
   {
     "name": "Gabi Procell",
     "email": "gabi@echobind.com",
-    "timezone": null
+    "timezone": "MST"
   }
 ]
