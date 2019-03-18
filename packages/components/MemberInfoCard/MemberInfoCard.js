@@ -3,14 +3,14 @@ import PropTypes from 'prop-types';
 import { View, Text, StyleSheet } from 'react-native';
 
 import { colors } from 'theme';
-import { Avatar } from '../index';
+import { Avatar, Time } from '../index';
 
 const MemberInfoCard = ({ member }) => {
   return (
     <View style={styles.container}>
       <Avatar email={member.email} />
       <Text style={styles.name}>{member.name}</Text>
-      <Text styles={styles.timeZone}>EST</Text>
+      <Time timezone={member.timezone} />
     </View>
   );
 }
