@@ -15,7 +15,7 @@ yarn start:web
 
 3. Start Desktop (with web server running)
 ```
-yarn start: desktop
+yarn start:desktop
 ```
 
 4. Start Mobile
